@@ -1,0 +1,1 @@
+Beautiful Soup is primarily known as a web scraping library for parsing HTML and XML documents. However, it is not typically used directly for natural language processing (NLP) tasks. Instead, Beautiful Soup is often used in conjunction with other libraries, such as requests for fetching web pages and nltk (Natural Language Toolkit) or spaCy for actual NLP tasks
