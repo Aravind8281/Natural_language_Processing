@@ -1,0 +1,1 @@
+Word2Vec is a popular algorithm used for learning vector representations of words in natural language processing (NLP). It represents words as continuous vectors in a high-dimensional space, capturing semantic relationships between words
