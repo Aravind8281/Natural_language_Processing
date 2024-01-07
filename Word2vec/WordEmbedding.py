@@ -13,4 +13,4 @@ model=Word2Vec(sentences=token,vector_size=100,window=5,min_count=1,workers=4)
 model.save("model")
 loaded=Word2Vec.load("model")
 vector=loaded.wv['word']
-print(vector)
+print(vector) 
