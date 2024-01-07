@@ -1,5 +1,5 @@
 from gensim.models import Word2Vec
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import word_tokenize 
 import nltk
 corpus = "Skip-gram is a type of Word2Vec model used for natural language processing tasks."
 tokenized_corpus = word_tokenize(corpus.lower())
