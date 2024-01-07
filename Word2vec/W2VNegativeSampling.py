@@ -1,4 +1,4 @@
-import gensim.models
+import gensim.models 
 from gensim.models import Word2Vec
 from gensim.utils import simple_preprocess
 
