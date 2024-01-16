@@ -1,5 +1,5 @@
 Attention mechanisms have become a key component in various natural language processing (NLP) tasks, enabling models to focus on specific parts of the input sequence when making predictions. Attention mechanisms are particularly prevalent in transformer-based models. Here's an overview of attention mechanisms and how they work:
-
+ 
 ### 1. **Introduction to Attention:**
    - Attention mechanisms were introduced to address the limitation of fixed-size context windows in traditional sequence-to-sequence models.
    - Attention allows the model to dynamically focus on different parts of the input sequence based on the relevance to the current decoding step.
